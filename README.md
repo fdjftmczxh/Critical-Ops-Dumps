@@ -33,3 +33,4 @@ Each folder contains the `.rar` archive with `dump.cs` inside.
 ## Socials
 
 - Signal: `feng_xingzhe_cn_.86`
+- Discord: `feng_xingzhe`
