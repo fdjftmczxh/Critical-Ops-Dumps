@@ -1,6 +1,6 @@
 # Critical Ops Dumps
 
-This repository serves as a central container for dumps of Critical Ops.
+This repository serves as a central container for dumps of Critical Ops, alternatively join https://discord.gg/q6cra6wUQA
 
 ## Repository Structure
 
